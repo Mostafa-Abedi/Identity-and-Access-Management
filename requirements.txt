@@ -1,0 +1,6 @@
+PyQt5
+pyotp
+cryptography
+qrcode
+opencv-python
+numpy
